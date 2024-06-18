@@ -13,6 +13,8 @@ Squash1
 Squash2
 Squash3
 Squash4
-Squash10
-Squash11
-Squash12
+Squash5
+Squash6
+main1
+main2
+main3
