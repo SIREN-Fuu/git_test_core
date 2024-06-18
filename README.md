@@ -15,3 +15,4 @@ Squash3
 Squash4
 Squash10
 Squash11
+Squash12
