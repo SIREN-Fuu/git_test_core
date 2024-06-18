@@ -11,3 +11,4 @@ test subtree
 Squash0
 Squash1
 Squash2
+Squash3
