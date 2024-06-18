@@ -7,3 +7,6 @@ update From Subversion
 update From Subversion-0
 update From Subversion-1
 test subtree
+
+Squash0
+Squash1
